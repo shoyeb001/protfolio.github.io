@@ -398,6 +398,12 @@ body #resume .container .range .col-lg-6 .bar .bs{
 body #resume .container .range .col-lg-6 .bar .php{
     width: 57%;
 }
+body #resume .container .range .col-lg-6 .bar .laravel{
+    width: 60%;
+}
+body #resume .container .range .col-lg-6 .bar .jquery{
+    width: 60%;
+}
 body #resume .container .download{
     padding-top: 0 !important;
 }
